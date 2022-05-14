@@ -55,12 +55,10 @@ other libaries which are all required for this project
 •	https://salarycountry.herokuapp.com/<br/>
 
 ## <img src="https://user-images.githubusercontent.com/84607354/131432262-f86ad078-0c06-4f0a-8a98-fa6249030c2b.png" width="40"> Contributors 
-•   Sathappan PR<br/>
-•   Susan Elizabeth Varghese<br/>
-•	Milind Sai C<br/>
-•	Jebin R<br/>
-•	Marchetty Pavan Sai <br/>
-•	Satyajeet Narayan<br/>
+•   Akshay Singhodiya<br/>
+•   Rishabh Jain<br/>
+•	Harshwardhan Singh<br/>
+•	Ishika Mittal<br/>
 
 ## <img src="https://images.pexels.com/photos/357514/pexels-photo-357514.jpeg?cs=srgb&dl=pexels-pixabay-357514.jpg&fm=jpg" width="40"> Documents 
 
