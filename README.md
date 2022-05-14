@@ -1,6 +1,5 @@
 # <img src="https://user-images.githubusercontent.com/84607354/131432422-86f825c6-1116-4f2b-a274-5eb6afeb5e5e.png" width="40"> Adult Census Income Prediction
 
-https://user-images.githubusercontent.com/84607354/132016783-628e452f-1d31-4aa5-83c5-3d775f1e7f62.mp4
 
 ### HOME PAGE<br/>
     •  Where the user will enter their details such as
@@ -65,7 +64,7 @@ other libaries which are all required for this project
 
 ## <img src="https://images.pexels.com/photos/357514/pexels-photo-357514.jpeg?cs=srgb&dl=pexels-pixabay-357514.jpg&fm=jpg" width="40"> Documents 
 
-• https://drive.google.com/drive/folders/1GcrlNRMJ3-LEJsslXFThDugF_a9n4mfm?usp=sharing
+• https://drive.google.com/drive/folders/1khwLWFEEAhcNWs4VyYYd9ZuTCIdne8T1?usp=sharing
 
 
     
